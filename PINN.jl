@@ -1,0 +1,2 @@
+function PINN(model):
+    
